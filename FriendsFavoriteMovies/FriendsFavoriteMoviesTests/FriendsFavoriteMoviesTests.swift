@@ -1,0 +1,18 @@
+//
+//  FriendsFavoriteMoviesTests.swift
+//  FriendsFavoriteMoviesTests
+//
+//  Created by 坂井俊文 on 2026/04/18.
+//
+
+import Testing
+
+struct FriendsFavoriteMoviesTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+        // Swift Testing Documentation
+        // https://developer.apple.com/documentation/testing
+    }
+
+}
